@@ -1,0 +1,12 @@
+# Core
+fastapi
+uvicorn
+
+# Browser automation
+playwright
+
+# Validation & config
+pydantic
+python-dotenv
+
+
